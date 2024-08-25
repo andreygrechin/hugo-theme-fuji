@@ -12,6 +12,10 @@ Fuji is a minimal Hugo theme with full dark mode support and GitHub Primer markd
 
 Supported languages: `cs`, `de`, `en`, `eo`, `fr`, `ja`, `nl`, `pl`, `pt-pt`, `zh-hans`, `zh-hant`. Check the i18n folder to add more languages.
 
+> This product includes software developed as part of the Hugo theme
+> (<https://github.com/dsrkafuu/hugo-theme-fuji>) by DSRKafuU. Check the
+> [NOTICE](NOTICE.md) for more information.
+
 ## 📑 Table of contents
 
 - [💻 Live demos](#-live-demos)
